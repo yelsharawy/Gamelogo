@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Extension-Name: gamelogo
+Implementation-Title: gamelogo
+Specification-Title: gamelogo
+Class-Manager: gamelogo.GamelogoExtension
+NetLogo-Extension-API-Version: 6.1
